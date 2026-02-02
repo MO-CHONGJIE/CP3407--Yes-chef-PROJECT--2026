@@ -1,0 +1,35 @@
+1.User Registration | Priority: High | Estimate: 2 days
+Description: As a new user, I want to register an account using my personal details so that I can access the online ordering and AI recommendation features.
+
+2.User Login and Authentication | Priority: High | Estimate: 1 day
+Description: As a registered user, I want to securely log into the system so that my personal information and order history are protected.
+
+3.Browse Restaurant List | Priority: Medium | Estimate: 2 days
+Description: As a user, I want to view a list of available restaurants so that I can choose where to order food from.
+
+4.View Restaurant Menu | Priority: High | Estimate: 2 days
+Description: As a user, I want to view the detailed menu of a selected restaurant so that I can see dish names, prices, and descriptions before ordering.
+
+5.AI-Based Dish Recommendation | Priority: High | Estimate: 4 days
+Description: As a user, I want the system to recommend dishes based on my preferences and previous orders so that I can quickly find meals that suit my taste.
+
+6.Set Food Preferences | Priority: Medium | Estimate: 2 days
+Description: As a user, I want to set my food preferences such as cuisine type, spice level, and budget so that the AI recommendation results are more personalized.
+
+7.Add Items to Cart | Priority: High | Estimate: 1 day
+Description: As a user, I want to add selected dishes to a shopping cart so that I can review and manage my order before checkout.
+
+8.Place Order | Priority: High | Estimate: 2 days
+Description: As a user, I want to confirm and place my order so that the restaurant can start preparing my food.
+
+9.View Order Status | Priority: Medium | Estimate: 1 day
+Description: As a user, I want to track the status of my order so that I know whether it is being prepared or completed.
+
+10.View Order History | Priority: Medium | Estimate: 1 day
+Description: As a user, I want to view my past orders so that I can reorder previous meals or review my ordering behavior.
+
+11.Rate and Review Dishes | Priority: Low | Estimate: 2 days
+Description: As a user, I want to rate and review dishes after completing an order so that I can provide feedback and improve future AI recommendations.
+
+12.Manage Menu Items (Admin) | Priority: High | Estimate: 3 days
+Description: As an administrator, I want to add, update, or remove menu items so that the system menu information remains accurate and up to date.
