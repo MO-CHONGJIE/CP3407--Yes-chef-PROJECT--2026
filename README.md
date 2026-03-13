@@ -58,7 +58,8 @@ Iteration 1 The project has been initially completed
 =====================================================
 1.The complete homepage
 -----------------------
-    <img width="1434" height="815" alt="截屏2026-03-13 16 25 21" src="https://github.com/user-attachments/assets/246f0111-cf74-47b6-aeaa-12ce13ac0085" />
+   <img width="1434" height="815" alt="截屏2026-03-13 16 25 21" src="https://github.com/user-attachments/assets/d222288b-4100-4d75-839d-40d937168514" />
+
     
 Our group completed a homepage based on user requirements, which included basic dish introductions as well as previous user evaluations. There are also the sales volume of dishes and recommended combinations
 
