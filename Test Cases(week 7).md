@@ -37,10 +37,10 @@ Confirm that the user remains on the login page.
 Make sure the user is not allowed to access protected pages.
 
 ## 3. Test for submitting the login form with empty fields
-·Open the system login page. 
-·Leave the email field empty and the password field empty. 
-·Click the Login button. 
-·Check that the system does not process the login request. 
-·Check that validation messages are shown for the required fields. 
-·Confirm that the user is not redirected away from the login page. 
-·Make sure no session is created. 
+Open the system login page. 
+Leave the email field empty and the password field empty. 
+Click the Login button. 
+Check that the system does not process the login request. 
+Check that validation messages are shown for the required fields. 
+Confirm that the user is not redirected away from the login page. 
+Make sure no session is created. 
