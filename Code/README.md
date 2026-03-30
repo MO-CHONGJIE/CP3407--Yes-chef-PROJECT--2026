@@ -1,60 +1,60 @@
-# 智能点餐系统
+# Smart Ordering System
 
-一个带有AI查询建议功能的现代化点餐网页系统。
+A modern online ordering system with AI query and recommendation features.
 
-## 功能特点
+## Features
 
-- 🍽️ **丰富的菜单展示** - 包含主食、小食、饮品、甜品四大类别
-- 🤖 **AI智能推荐** - 基于关键词、价格、口味等多维度智能推荐
-- 🛒 **购物车管理** - 添加、删除、修改数量，实时计算总价
-- 🔍 **智能搜索** - 支持菜品名称、描述、标签等多维度搜索
-- 📱 **响应式设计** - 适配各种屏幕尺寸
-- 🎨 **现代化UI** - 美观的渐变设计和流畅的动画效果
+* 🍽️ **Rich Menu Display** - Includes four main categories: main dishes, snacks, drinks, and desserts
+* 🤖 **AI Smart Recommendation** - Recommends dishes based on keywords, price, taste, and other factors
+* 🛒 **Cart Management** - Add, delete, and change quantity, with real-time total price calculation
+* 🔍 **Smart Search** - Supports searching by dish name, description, tags, and more
+* 📱 **Responsive Design** - Works on different screen sizes
+* 🎨 **Modern UI** - Nice gradient design and smooth animation effects
 
-## AI推荐功能
+## AI Recommendation Functions
 
-系统支持以下智能推荐：
+The system supports the following smart recommendations:
 
-1. **精确匹配** - 根据菜品名称匹配
-2. **描述匹配** - 根据菜品描述匹配
-3. **标签匹配** - 根据菜品标签（如：辣、甜、清淡等）匹配
-4. **关键词推荐** - 识别口味关键词（辣、甜、酸、清淡等）
-5. **价格推荐** - 识别价格区间需求（便宜、中等、贵等）
-6. **口味偏好** - 识别特殊需求（不辣、微辣、重口味、健康等）
+1. **Exact Match** - Matches based on dish name
+2. **Description Match** - Matches based on dish description
+3. **Tag Match** - Matches based on dish tags (such as spicy, sweet, light, etc.)
+4. **Keyword Recommendation** - Recognizes taste keywords (spicy, sweet, sour, light, etc.)
+5. **Price Recommendation** - Recognizes price range needs (cheap, medium, expensive, etc.)
+6. **Taste Preference** - Recognizes special needs (not spicy, mildly spicy, strong flavor, healthy, etc.)
 
-## 使用方法
+## How to Use
 
-1. 直接在浏览器中打开 `index.html` 文件
-2. 浏览菜单，点击"加入购物车"按钮添加菜品
-3. 在搜索框输入关键词，AI会为您推荐相关菜品
-4. 在购物车中管理已选菜品
-5. 点击"结算"按钮完成订单
+1. Open the `index.html` file directly in the browser
+2. Browse the menu and click the "Add to Cart" button to add dishes
+3. Enter keywords in the search box, and the AI will recommend related dishes
+4. Manage selected items in the cart
+5. Click the "Checkout" button to complete the order
 
-## 示例搜索
+## Example Searches
 
-- "辣" - 推荐所有辣味菜品
-- "便宜" - 推荐价格实惠的菜品
-- "不辣" - 推荐不辣的菜品
-- "健康" - 推荐健康清淡的菜品
-- "宫保" - 精确匹配宫保鸡丁
-- "甜品" - 推荐所有甜品
+* "spicy" - Recommends all spicy dishes
+* "cheap" - Recommends affordable dishes
+* "not spicy" - Recommends non-spicy dishes
+* "healthy" - Recommends healthy and light dishes
+* "Kung Pao" - Exactly matches Kung Pao Chicken
+* "dessert" - Recommends all desserts
 
-## 技术栈
+## Tech Stack
 
-- HTML5
-- CSS3 (Grid布局、Flexbox、动画)
-- JavaScript (ES6+)
+* HTML5
+* CSS3 (Grid layout, Flexbox, animation)
+* JavaScript (ES6+)
 
-## 文件结构
+## File Structure
 
 ```
 ad project/
-├── index.html      # 主页面
-├── style.css       # 样式文件
-├── script.js       # 功能逻辑
-└── README.md       # 说明文档
+├── index.html      # Main page
+├── style.css       # Style file
+├── script.js       # Function logic
+└── README.md       # Documentation
 ```
 
-## 浏览器兼容性
+## Browser Compatibility
 
-支持所有现代浏览器（Chrome、Firefox、Safari、Edge等）
+Supports all modern browsers (Chrome, Firefox, Safari, Edge, etc.)
