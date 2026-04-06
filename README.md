@@ -290,7 +290,7 @@ curl "http://localhost:964/api/recommendations/recommend?query=chicken&mode=regu
   - Deeply understand the user's intentions
   - Semantic matching rather than simple keyword matching
   - Support complex queries (such as "Chicken dishes suitable for spicy food lovers")
-- **配置要求**：Needed `.env` Configuration in the file `API_KEY`
+- **Configuration requirements**：Needed `.env` Configuration in the file `API_KEY`
 
 #### Regular Search (regular search)
 - **descrip**：Use the local keyword matching algorithm
