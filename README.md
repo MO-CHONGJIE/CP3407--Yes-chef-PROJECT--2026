@@ -135,7 +135,7 @@ smart-order-system/
 ```
 # Database Table Structure
 ## users table
-| Field name| Data type | Constraint| 描述 |
+| Field name| Data type | Constraint| description |
 |--------|----------|------|------|
 | id | INTEGER | PRIMARY KEY AUTOINCREMENT | User ID |
 | phone | TEXT | UNIQUE NOT NULL | Mobile phone number |
@@ -146,7 +146,7 @@ smart-order-system/
 
 ## menu_items table
 
-| Field name | Data type | Constraint | 描述 |
+| Field name | Data type | Constraint | description |
 |--------|----------|------|------|
 | id | INTEGER | PRIMARY KEY AUTOINCREMENT | Dish ID |
 | name | TEXT | NOT NULL | Dish name |
@@ -161,7 +161,7 @@ smart-order-system/
 
 ## orders table
 
-| Field name | Data type | Constraint |描述|
+| Field name | Data type | Constraint |description|
 |--------|----------|------|------|
 | id | INTEGER | PRIMARY KEY AUTOINCREMENT | Order ID |
 | order_no | VARCHAR(32) | UNIQUE NOT NULL | Order Number |
